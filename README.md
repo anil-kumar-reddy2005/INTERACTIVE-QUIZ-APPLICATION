@@ -27,3 +27,5 @@ The application provides instant feedback after each answer. Correct answers are
 Once all questions are answered, a final result screen is displayed showing the user’s total score along with a motivational performance message. The user can then return to the home page, completing the application flow smoothly. Overall, this project demonstrates strong fundamentals in frontend development, including DOM manipulation, client-side authentication, timer implementation, and UI design, making it a solid and practical project for learning and showcasing JavaScript skills.
 
 OUTPUT:
+
+<img width="1878" height="1097" alt="Image" src="https://github.com/user-attachments/assets/470695e1-a5a4-45dd-8855-d2237df802c7" />
