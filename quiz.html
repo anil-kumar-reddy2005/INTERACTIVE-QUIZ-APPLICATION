@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Quiz Challenge</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="quiz-page">
+    <header class="quiz-header">
+        <h1>Quiz Challenge</h1>
+        <div class="info">
+            <span id="timer">⏱ 30s</span>
+            <span id="score">Score: 0</span>
+        </div>
+    </header>
+
+
+    <div class="progress-bar">
+        <div id="progressFill"></div>
+    </div>
+
+
+    <main class="quiz-main" id="quizBox">
+        <h2 id="question"></h2>
+        <div id="options" class="options"></div>
+        <button id="nextBtn" onclick="nextQuestion()" disabled>Next ➜</button>
+    </main>
+</div>
+
+<script src="quiz.js"></script>
+</body>
+</html>
